@@ -1,0 +1,18 @@
+---
+title: Psilá
+draft: false
+tags:
+  - kingdom
+capital: None
+species:
+  - dwarves
+  - common species
+languages:
+  - new imperial
+  - Psilá
+---
+Not very known or recorded in history, Psilá is characterized by its proud people, seafarers and philosophers. Does not have a centralized government, but a group of city-states that may or may not fight constantly.
+
+**Culture:** classical greek
+
+**Known for:** mountains, great cities, barbarians
