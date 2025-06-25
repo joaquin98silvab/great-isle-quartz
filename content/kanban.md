@@ -2,7 +2,6 @@
 publish: false
 ---
 
-
 | Name             | Effect                              |
 | ---------------- | ----------------------------------- |
 | Resistance       | 1/2 dmg                             |
