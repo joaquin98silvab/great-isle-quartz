@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Angel of Strife, The Fiendkiller
 #### (Lawful Good - Lawful Neutral)
 

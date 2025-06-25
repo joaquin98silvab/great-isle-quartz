@@ -9,6 +9,7 @@ species:
 languages:
   - new imperial
   - northspeak
+publish: true
 ---
 One of the Northern ex-imperial countries.
 

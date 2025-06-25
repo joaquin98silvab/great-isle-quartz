@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Tyrant
 #### (Lawful Evil)
 ![[Pasted image 20250624104002.png]]

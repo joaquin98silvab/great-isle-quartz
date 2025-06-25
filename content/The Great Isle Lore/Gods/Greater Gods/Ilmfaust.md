@@ -1,5 +1,9 @@
+---
+publish: true
+---
 ### The Forger of Law
 #### (Lawful Neutral)
+
 ![[Pasted image 20250624103154.png]]
 God of equality, justice, law, retribution, vengeance and oaths. 
 

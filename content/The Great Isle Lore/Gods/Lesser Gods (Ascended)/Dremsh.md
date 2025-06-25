@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Second Eye
 #### (Chaotic Good)
 

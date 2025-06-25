@@ -9,6 +9,7 @@ species:
 languages:
   - new imperial
   - Iurda
+publish: true
 ---
 Protectorate of Iurd. Kingdom with close political and economical ties to Iurd, it is (somewhat) independent since the Dragon War. A lot of merchants, farms and lakes. Not flashy but a good life.
 

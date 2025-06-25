@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The First Ascended
 #### (True Neutral)
 ![[Pasted image 20250624102238.png]]

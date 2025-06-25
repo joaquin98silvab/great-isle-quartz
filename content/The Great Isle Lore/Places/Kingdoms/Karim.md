@@ -10,6 +10,7 @@ species:
 languages:
   - new imperial
   - Un Er Karima
+publish: true
 ---
 A rather small country, Karim boasts beautiful sceneries and people. A tropical island with old traditions and powerful comerce.
 

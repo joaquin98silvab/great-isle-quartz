@@ -9,6 +9,7 @@ species:
 languages:
   - new imperial
   - Ventana imperial
+publish: true
 ---
 Protectorate of Iurd, is the main artery of the Iurda commercial empire. It has a very tense relationship with Iurd.
 

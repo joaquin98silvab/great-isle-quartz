@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Putrefaction
 #### (Neutral Evil)
 ![[Pasted image 20250624105155.png]]

@@ -9,6 +9,7 @@ species:
 languages:
   - new imperial
   - Verdan imperial
+publish: true
 ---
 Part of the old Ira Empire and crucial component of the Dragon War that destroyed it, Verdan is in the present an extremely powerful kingdom with many allies.
 

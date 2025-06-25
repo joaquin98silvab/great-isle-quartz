@@ -8,6 +8,7 @@ species:
   - common species
 languages:
   - godstongue (Portean)
+publish: true
 ---
 Portea is a very isolationist country, so much so that all known outside of its borders are little more than rumours. Their people are fanatical followers of their three god-kings.
 

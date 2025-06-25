@@ -9,6 +9,7 @@ species:
 languages:
   - new imperial
   - Verdan imperial
+publish: true
 ---
 Jadais is another old colony of the empire, with now close ties to Verdan, maybe closer than theyd like. Feudal kingdom where the king has little power, and the nobles reign almost absolutely in their territories.
 

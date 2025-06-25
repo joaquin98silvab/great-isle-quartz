@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Mothers of Life and Death
 #### (True Neutral)
 

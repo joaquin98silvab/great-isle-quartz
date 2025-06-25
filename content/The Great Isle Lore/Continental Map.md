@@ -1,3 +1,6 @@
+---
+publish: false
+---
 This doesnt work on the webpage
 
 ```leaflet  

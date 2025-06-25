@@ -10,6 +10,7 @@ species:
 languages:
   - new imperial
   - Altisimis
+publish: true
 ---
 Not very known or recorded in history. Altisimis is a country of mountains and valleys.
 

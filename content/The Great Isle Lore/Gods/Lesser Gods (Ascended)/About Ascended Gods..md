@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 There are no Greater Gods other than the original 10. All the rest are Ascended.
 

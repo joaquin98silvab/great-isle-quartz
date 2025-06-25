@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The One Eyed God
 #### (Chaotic Evil)
 

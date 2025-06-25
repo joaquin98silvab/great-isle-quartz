@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Father of Storms
 #### (Chaotic Neutral)
 

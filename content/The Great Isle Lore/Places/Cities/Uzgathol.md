@@ -11,6 +11,7 @@ species:
 languages:
   - new imperial
   - dwarven
+publish: true
 ---
 The dwarven "sea fortress" is a city state in the river mouth of the Greyed River. Almost impenetrable, has a treaty with Greyedbass to control the entrance to the river, while taxing the trade.
 

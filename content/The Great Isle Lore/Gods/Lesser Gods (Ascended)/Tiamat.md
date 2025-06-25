@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Queen of Dragons
 #### (Lawful Evil)
 

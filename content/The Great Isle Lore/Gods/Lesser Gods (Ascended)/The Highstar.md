@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Forgotten God, the Nameless Angel
 #### (Neutral - Chaotic Good)
 

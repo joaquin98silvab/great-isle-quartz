@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Sun God
 #### (Lawful Good)
 ![[Pasted image 20250624095406.png]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Decieving Smile
 #### (Chaotic Neutral)
 ![[Pasted image 20250624103637.png]]

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Mad One
 #### (Chaotic Evil)
 ![[Pasted image 20250624102822.png]]

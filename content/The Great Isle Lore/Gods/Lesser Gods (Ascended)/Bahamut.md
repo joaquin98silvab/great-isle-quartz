@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Platinum Dragon
 #### (Lawful Good)
 

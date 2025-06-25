@@ -8,6 +8,7 @@ species:
   - common species
 languages:
   - namjjog
+publish: true
 ---
 The smaller of the Small Isles, Namjjog is not very well known, but it has a very deep connection with magic.
 

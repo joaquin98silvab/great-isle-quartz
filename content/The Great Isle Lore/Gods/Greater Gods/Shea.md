@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Beauty Incarnate
 #### (Neutral Good)
 ![[Pasted image 20250624104345.png]]

@@ -8,6 +8,7 @@ species:
   - common species
 languages:
   - Hokubu
+publish: true
 ---
 Part of the Smaller Isles, as called in the continent, Hokubu is a seafaring country with a rich culture. Not much is known about them in the continent.
 

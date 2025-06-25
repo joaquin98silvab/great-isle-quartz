@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ### The Night Moon
 #### (Chaotic Good)
 ![[Pasted image 20250624104718.png]]

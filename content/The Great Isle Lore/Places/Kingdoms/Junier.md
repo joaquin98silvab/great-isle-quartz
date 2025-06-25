@@ -9,6 +9,7 @@ species:
 languages:
   - new imperial
   - Verdan imperial
+publish: true
 ---
 Junier is a close ally to Verdan. Not a very important place in the empire, now is turning into a trade powerhouse.
 
