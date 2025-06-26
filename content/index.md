@@ -14,8 +14,8 @@ You can check out:
 
 | Category                        | Description                          |
 | ------------------------------- | ------------------------------------ |
-| [[The Great Isle Lore/Gods/]]   | About this worlds gods               |
-| [[The Great Isle Lore/Places/]] | About the Kingdom, Cities and others |
+| [[content/The Great Isle Lore/Gods/index|Gods]]   | About this worlds gods               |
+| [[content/The Great Isle Lore/Places/index|Places]] | About the Kingdom, Cities and others |
 
 
 ![[the-great-isle-map.jpg]]
