@@ -1,14 +1,16 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-div:not(.setting-item) > .callout.callout[data-callout="inf0box"] {
+
+
+.callout.callout[data-callout="inf0box"] {
     float: right;
     max-width: 300px;
     border: 0;
     box-shadow: none;
     Margin: 10px;
 }
-div:not(.setting-item) > .callout[data-callout="inf0box"] .callout-title {
+.callout[data-callout="inf0box"] .callout-title {
     display: none;
 }
 .callout[data-callout="inf0box"] table {
