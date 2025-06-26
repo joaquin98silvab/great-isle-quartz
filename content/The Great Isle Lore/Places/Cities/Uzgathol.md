@@ -16,7 +16,7 @@ publish: true
 
 ### Overwiew ###
 
-> [!infobox]
+> [!inf0box]
 > # Uzgathol
 > ###### General Information
 >   |  |
