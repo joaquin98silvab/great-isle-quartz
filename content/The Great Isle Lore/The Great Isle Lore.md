@@ -1,3 +1,10 @@
+---
+title: The Great Isle Lore
+draft: false
+tags:
+  - example-tag
+publish: true
+---
 
 %% Begin Waypoint %%
 - [[Continental Map]]

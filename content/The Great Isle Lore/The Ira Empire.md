@@ -1,1 +1,0 @@
-The now defunct Eternal Ira Empire.
