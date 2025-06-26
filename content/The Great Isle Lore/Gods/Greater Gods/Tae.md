@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - god-greater
+  - chaotic
+  - good
 ---
 ### The Night Moon
 #### (Chaotic Good)

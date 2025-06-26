@@ -12,10 +12,10 @@ There are always mysteries in the Great Isle, and always adventurers that look f
 You can check out:
 
 
-| Category                        | Description                          |
-| ------------------------------- | ------------------------------------ |
-| [[content/The Great Isle Lore/Gods/index|Gods]]   | About this worlds gods               |
-| [[content/The Great Isle Lore/Places/index|Places]] | About the Kingdom, Cities and others |
+| Category                                                                                            | Description |
+| ----------------------------------| ------------------------------------ |
+| [[The Great Isle Lore/Gods/index   | Gods]]      | About this worlds gods               |
+| [[The Great Isle Lore/Places/index | Places]]    | About the Kingdom, Cities and others |
 
 
 ![[the-great-isle-map.jpg]]

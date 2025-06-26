@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - god-greater
+  - lawful
+  - evil
 ---
 ### The Tyrant
 #### (Lawful Evil)

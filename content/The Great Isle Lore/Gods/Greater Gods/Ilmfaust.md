@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - god-greater
+  - lawful
+  - neutral
 ---
 ### The Forger of Law
 #### (Lawful Neutral)

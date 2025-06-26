@@ -1,5 +1,9 @@
 ---
 publish: true
+tags:
+  - god
+  - neutral
+  - god-greater
 ---
 ### The Mothers of Life and Death
 #### (True Neutral)

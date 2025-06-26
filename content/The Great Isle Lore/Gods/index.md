@@ -5,4 +5,3 @@ tags:
   - god
 publish: true
 ---
-Gods are really cool.

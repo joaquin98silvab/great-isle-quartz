@@ -1,5 +1,11 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - chaotic
+  - evil
+  - orc
 ---
 ### The One Eyed God
 #### (Chaotic Evil)

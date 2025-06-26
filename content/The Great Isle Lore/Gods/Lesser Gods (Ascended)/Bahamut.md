@@ -1,5 +1,11 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - lawful
+  - good
+  - dragon
 ---
 ### The Platinum Dragon
 #### (Lawful Good)

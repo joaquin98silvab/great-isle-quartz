@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - god-greater
+  - chaotic
+  - evil
 ---
 ### The Mad One
 #### (Chaotic Evil)

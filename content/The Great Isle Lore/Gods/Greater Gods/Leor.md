@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - god-greater
+  - lawful
+  - good
 ---
 ### The Sun God
 #### (Lawful Good)

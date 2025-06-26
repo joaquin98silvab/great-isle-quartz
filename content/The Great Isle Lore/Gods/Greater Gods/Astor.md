@@ -1,5 +1,9 @@
 ---
 publish: true
+tags:
+  - god
+  - neutral
+  - god-greater
 ---
 ### The First Ascended
 #### (True Neutral)

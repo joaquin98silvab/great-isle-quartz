@@ -1,5 +1,11 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - chaotic
+  - good
+  - elf
 ---
 #### (Chaotic Good)
 

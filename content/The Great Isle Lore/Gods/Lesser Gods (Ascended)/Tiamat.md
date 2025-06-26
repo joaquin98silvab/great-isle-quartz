@@ -1,5 +1,13 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - lawful
+  - evil
+  - dragon
+  - fiend
+  - devil
 ---
 ### The Queen of Dragons
 #### (Lawful Evil)

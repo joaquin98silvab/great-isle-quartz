@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - god-greater
+  - chaotic
+  - neutral
 ---
 ### The Decieving Smile
 #### (Chaotic Neutral)

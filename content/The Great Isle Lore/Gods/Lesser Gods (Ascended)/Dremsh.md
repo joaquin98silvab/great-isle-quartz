@@ -1,5 +1,11 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - chaotic
+  - good
+  - orc
 ---
 ### The Second Eye
 #### (Chaotic Good)

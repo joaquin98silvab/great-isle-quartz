@@ -1,5 +1,9 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - neutral
 ---
 ### The Reaper
 #### (Neutral)

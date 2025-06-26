@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - god-greater
+  - neutral
+  - good
 ---
 ### The Beauty Incarnate
 #### (Neutral Good)

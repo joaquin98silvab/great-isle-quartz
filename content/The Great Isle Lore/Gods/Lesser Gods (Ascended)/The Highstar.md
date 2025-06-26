@@ -1,5 +1,11 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - chaotic
+  - good
+  - neutral
 ---
 ### The Forgotten God, the Nameless Angel
 #### (Neutral - Chaotic Good)

@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - god-greater
+  - neutral
+  - evil
 ---
 ### The Putrefaction
 #### (Neutral Evil)

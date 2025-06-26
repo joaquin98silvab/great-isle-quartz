@@ -1,5 +1,10 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - chaotic
+  - neutral
 ---
 ### The Father of Storms
 #### (Chaotic Neutral)

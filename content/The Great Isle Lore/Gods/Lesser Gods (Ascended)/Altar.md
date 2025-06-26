@@ -1,5 +1,11 @@
 ---
 publish: true
+tags:
+  - god
+  - acended
+  - lawful
+  - good
+  - neutral
 ---
 ### The Angel of Strife, The Fiendkiller
 #### (Lawful Good - Lawful Neutral)
