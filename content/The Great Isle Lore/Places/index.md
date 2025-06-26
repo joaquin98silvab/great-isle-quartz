@@ -1,5 +1,5 @@
 ---
-title: Frontmatter
+title: Places
 draft: false
 tags:
   - place
