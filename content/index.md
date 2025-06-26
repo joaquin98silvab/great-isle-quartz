@@ -9,7 +9,16 @@ There is no real peace, however. A mysterious man, [[The Prophet]], walks the ea
 
 There are always mysteries in the Great Isle, and always adventurers that look for answers.
 
+You can check out:
+
+
+| [[The Great Isle/Gods/]]   | About this worlds gods               |
+| -------------------------- | ------------------------------------ |
+| [[The Great Isle/Places/]] | About the Kingdom, Cities and others |
+
+
 ![[the-great-isle-map.jpg]]
+
 
 
 
