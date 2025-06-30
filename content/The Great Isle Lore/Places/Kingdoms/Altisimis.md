@@ -12,8 +12,19 @@ languages:
   - Altisimis
 publish: true
 ---
-Not very known or recorded in history. Altisimis is a country of mountains and valleys.
 
-**Culture:** imperial rome
+ ### Overview
+ 
+ Not very known or recorded in history. Altisimis is a country of mountains and valleys.
 
-**Known for:** smiths and forges, mountains
+> [!infobox|right]
+> # Altisimis
+> ###### Elective Monarchy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Magna |
+> |  **Species:** | common species, dwarves |
+> |**Languages:** |  new imperial, Altisimis|
+> |**Culture:**| ancient rome |
+> |**Known for:** | smiths and forges, mountains |

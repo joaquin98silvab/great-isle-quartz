@@ -6,20 +6,21 @@ tags:
   - lawful
   - neutral
 ---
-### The Forger of Law
-#### (Lawful Neutral)
+### Overview
 
-![[Pasted image 20250624103154.png]]
 God of equality, justice, law, retribution, vengeance and oaths. 
 
-##### Common Appearance
+### Common Appearance
 
 A large, muscular male smith, many times a dwarf. A smith hammer in one hand, and a scale in the other.
 
-##### Patronage
-
-Lawmakers, judges, merchants, bankers, smiths and many paladins.
-
-##### Divine Domains
-
-Forge, War, Tempest, Order
+> [!infobox|right]
+> ![[Pasted image 20250624103154.png]]
+> # Ilmfaust
+> ###### Greater God
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | The Forger of Law |
+> | **Alignment:** | Lawful Neutral|
+> |  **Patronage:** | Lawmakers, judges, merchants, bankers, smiths and many paladins |
+> |**Divine Domain:** |  Forge, War, Tempest, Order |

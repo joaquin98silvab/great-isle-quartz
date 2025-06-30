@@ -12,8 +12,20 @@ languages:
   - draconic
 publish: true
 ---
-Draconia is a new kingdom formed right after the fall of the Empire by dragonkin refugees. Not very powerful but theyre dragons so nobody mess with them
 
-**Culture:** fantasy medieval
+ ### Overview
+ 
+ Draconia is a new kingdom formed right after the fall of the Empire by dragonkin refugees. Not very powerful but theyre dragons so nobody mess with them
 
-**Known for:** their dragons. Thats it, i mean theyre dragons
+> [!infobox|right]
+> # Draconia
+> ###### Oligarchy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Yvryrth |
+> |  **Species:** | dragons, dragonborn |
+> |**Languages:** |  new imperial, draconic |
+> |**Culture:**| fantasy medieval |
+> |**Known for:** | their dragons. Thats it, i mean theyre dragons |
+

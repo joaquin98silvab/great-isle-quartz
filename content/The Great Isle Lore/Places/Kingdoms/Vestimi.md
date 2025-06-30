@@ -11,8 +11,19 @@ languages:
   - northspeak
 publish: true
 ---
-One of the Northern ex-imperial countries.
 
-**Culture:** scandinavian
+ ### Overview
+ 
+ One of the Northern ex-imperial countries.
 
-**Known for:** grass, cows, sheep, rangers, and beer
+> [!infobox|right]
+> # Vestimi
+> ###### Monarchy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Havn |
+> |  **Species:** | common species |
+> |**Languages:** |  new imperial, northspeak|
+> |**Culture:**| scandinavian |
+> |**Known for:** | grass, cows, sheep, rangers, and beer |

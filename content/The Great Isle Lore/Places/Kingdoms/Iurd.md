@@ -12,8 +12,19 @@ languages:
   - Iurda
 publish: true
 ---
-The multicultural, tiefling-led, and rich triumvirate of Iurd was a very small country that gained a lot of power during the Dragon War, as it was one of the main victors of the Dragon War.
 
-**Culture:** victorian england, without the racism
+ ### Overview
+ 
+ The multicultural, tiefling-led, and rich triumvirate of Iurd was a very small country that gained a lot of power during the Dragon War, as it was one of the main victors of the Dragon War.
 
-**Known for:** its technology, its magic, its commerce, tieflings
+> [!infobox|right]
+> # Iurd
+> ###### Triumvirate
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Highstar |
+> |  **Species:** | all, tieflings |
+> |**Languages:** |  new imperial, Iurda|
+> |**Culture:**| victorian england, without the racism |
+> |**Known for:** | its technology, its magic, its commerce, tieflings |

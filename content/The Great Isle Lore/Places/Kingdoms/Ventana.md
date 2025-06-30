@@ -11,8 +11,19 @@ languages:
   - Ventana imperial
 publish: true
 ---
-Protectorate of Iurd, is the main artery of the Iurda commercial empire. It has a very tense relationship with Iurd.
 
-**Culture:** italian
+ ### Overview
+ 
+ Protectorate of Iurd, is the main artery of the Iurda commercial empire. It has a very tense relationship with Iurd.
 
-**Known for:** trade, trains, great roads, some very well guarded roads, some very dangerous roads, sailors and pirates
+> [!infobox|right]
+> # Ventana
+> ###### Monarchy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Finestra |
+> |  **Species:** | common species |
+> |**Languages:** |  new imperial, Ventana imperial|
+> |**Culture:**| italian |
+> |**Known for:** | trade, trains, great roads, some very well guarded roads, some very dangerous roads, sailors and pirates |

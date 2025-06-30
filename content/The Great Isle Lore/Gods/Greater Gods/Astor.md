@@ -5,22 +5,22 @@ tags:
   - neutral
   - god-greater
 ---
-### The First Ascended
-#### (True Neutral)
-![[Pasted image 20250624102238.png]]
+### Overview
+
 Known as the First Ascended, Astor was once a man in the dawn of humanity. Due to his incessant pursue of knowledge, [[Aris and Sira]] ascended him to godly status. Being the first of the ascended, his power is comparable to the greater gods, above all lesser gods.
 
 God of knowledge, magic, truth, history and academia. 
-##### Common Appearance
 
-A robed old man, with a cane and a book containing all knowledge.
-##### Patronage
-
-Academics, universities, wizards, historians.
-
-##### Divine Domains
-
-Arcana, Knowledge
+> [!infobox|right]
+> ![[Pasted image 20250624102238.png]]
+> # Astor
+> ###### Greater God
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | The First Ascended |
+> | **Alignment:** | True Neutral|
+> |  **Patronage:** | Academics, universities, wizards, historians |
+> |**Divine Domain:** |  Arcana, Knowledge|
 
 
 > [!NOTE] Original Myth (in spanish)

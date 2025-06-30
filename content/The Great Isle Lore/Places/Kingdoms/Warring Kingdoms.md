@@ -10,8 +10,19 @@ languages:
   - new imperial
 publish: true
 ---
-A group of seven kingdoms/families that are constantly fighting each other for power. Hasn't survived with an unified government for more than 5 years since the fall of the Empire.
 
-**Culture:** medieval fantasy
+ ### Overview
+ 
+ A group of seven kingdoms/families that are constantly fighting each other for power. Hasn't survived with an unified government for more than 5 years since the fall of the Empire.
 
-**Known for:** its constant wars, its mercenary groups
+> [!infobox|right]
+> # Warring Kingdoms
+> ###### Anarchy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | None |
+> |  **Species:** | common species |
+> |**Languages:** |  new imperial|
+> |**Culture:**| medieval fantasy |
+> |**Known for:** | its constant wars, its mercenary groups |

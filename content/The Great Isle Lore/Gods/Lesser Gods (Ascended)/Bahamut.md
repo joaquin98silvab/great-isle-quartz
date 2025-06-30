@@ -7,7 +7,14 @@ tags:
   - good
   - dragon
 ---
-### The Platinum Dragon
-#### (Lawful Good)
+### Overview
 
 The father of all metallic (good) dragons. Patron of dragonkin, justice, righteousness. Rival of his sister [[Tiamat]].
+
+> [!infobox|right]
+> # Bahamut
+> ###### Ascended God
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | The Platinum Dragon |
+> | **Alignment:** | Lawful Good|

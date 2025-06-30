@@ -6,20 +6,21 @@ tags:
   - lawful
   - good
 ---
-### The Sun God
-#### (Lawful Good)
-![[Pasted image 20250624095406.png]]
+### Overview
+
 God of goodwill, generosity, charity, righteousness and, in general, good morals. Considered the god of light and the Sun.
-##### Common Appearance
+
+### Common Appearance
 
 Commonly presented as a glowing armored man with a golden shield and straight sword.
 
-##### Patronage
-
-Patron of many clerics, healers, paladins. 
-
-Culturally [[Ira Empire|Imperial]] kingdoms have great churches that worship them. 
-
-##### Divine Domains
-
-Light, Life, Order
+> [!infobox|right]
+> ![[Pasted image 20250624103637.png]]
+> # Leor
+> ###### Greater God
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | The Sun God |
+> | **Alignment:** | Lawful Good|
+> |  **Patronage:** | Patron of many clerics, healers, paladins. Culturally [[The Ira Empire\|Imperial]] kingdoms have great churches that worship them  |
+> |**Divine Domain:** |  Light, Life, Order |

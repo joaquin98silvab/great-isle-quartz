@@ -6,18 +6,21 @@ tags:
   - chaotic
   - neutral
 ---
-### The Decieving Smile
-#### (Chaotic Neutral)
-![[Pasted image 20250624103637.png]]
+### Overview
+
 God of trickery, misdirection, lies, deceiving, but also humor, spectacle, gambling and luck.
 
-##### Common Appearance
+### Common Appearance
 
 A woman with a mask depicting a laughing face, with dice or cards in her hands.
-##### Patronage
 
-Bards, rogues, actors, thieves, charlatans.
-
-##### Divine Domains
-
-Trickery, Knowledge, Nature.
+> [!infobox|right]
+> ![[Pasted image 20250624103637.png]]
+> # Kamas
+> ###### Greater God
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | The Decieving Smile |
+> | **Alignment:** | Chaotic Neutral|
+> |  **Patronage:** | Bards, rogues, actors, thieves, charlatans |
+> |**Divine Domain:** |  Trickery, Knowledge, Nature |

@@ -1,16 +1,28 @@
 ---
 title: Example Title
 draft: false
+publish: false
 tags:
   - kingdom
-capital:
+capital: 
 species:
   - specie
 languages:
   - new imperial
 ---
- DESCRIPTION HERE
+ ### Overview
 
-**Culture:** 
+OVERWIEW 
 
-**Known for:** 
+> [!infobox|right]
+> # NAME
+> ###### Overview
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Capital|
+> |  **Species:** | common species |
+> |**Languages:** |  new imperial|
+> |**Culture:**| culture |
+> |**Known for:** | stuff |
+

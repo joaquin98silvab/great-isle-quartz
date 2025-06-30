@@ -11,8 +11,19 @@ languages:
   - northspeak
 publish: true
 ---
-One of the Northern ex-imperial countries.
 
-**Culture:** scandinavian
+ ### Overview
+ 
+ One of the Northern ex-imperial countries.
 
-**Known for:** steppes, druids, wolf/elk/bear riders
+> [!infobox|right]
+> # Pitka
+> ###### Monarchy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Suur Linn |
+> |  **Species:** | common species |
+> |**Languages:** |  new imperial, northspeak|
+> |**Culture:**| scandinavian |
+> |**Known for:** | steppes, druids, wolf/elk/bear riders |

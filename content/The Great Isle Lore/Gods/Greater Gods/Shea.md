@@ -6,18 +6,23 @@ tags:
   - neutral
   - good
 ---
-### The Beauty Incarnate
-#### (Neutral Good)
-![[Pasted image 20250624104345.png]]
-God of art, music, beauty.
+### Overview
 
-##### Common Appearance
+God of tyranny, slavery, domination and conspiracy.
 
-Someone of extreme beauty, many times androgynous, many times elven. They represent the beauty standard of their worshipers. Tends to carry a variety of instruments or art tools.
-##### Patronage
+### Common Appearance
 
-Artists, bards, poets, musicians.
+Many represent them as an old, tyrant king. Many others as a jailer or executioner.
 
-##### Divine Domains
+Tends to carry chains or manacles
 
-Light, Knowledge, Life, Nature, Arcana
+> [!infobox|right]
+> ![[Pasted image 20250624104345.png]]
+> # Shea
+> ###### Greater God
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | The Beauty Incarnate |
+> | **Alignment:** | Neutral Good|
+> |  **Patronage:** | Artists, bards, poets, musicians  |
+> |**Divine Domain:** |  Light, Knowledge, Life, Nature, Arcana |

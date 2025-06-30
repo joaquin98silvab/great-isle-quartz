@@ -12,8 +12,19 @@ languages:
   - Psilá
 publish: true
 ---
-Not very known or recorded in history, Psilá is characterized by its proud people, seafarers and philosophers. Does not have a centralized government, but a group of city-states that may or may not fight constantly.
 
-**Culture:** classical greek
+ ### Overview
+ 
+ Not very known or recorded in history, Psilá is characterized by its proud people, seafarers and philosophers. Does not have a centralized government, but a group of city-states that may or may not fight constantly.
 
-**Known for:** mountains, great cities, barbarians
+> [!infobox|right]
+> # Psilá
+> ###### Confederation
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | None |
+> |  **Species:** | common species, dwarves |
+> |**Languages:** |  new imperial, Psilá |
+> |**Culture:**| classical greek |
+> |**Known for:** | mountains, great cities, barbarians |

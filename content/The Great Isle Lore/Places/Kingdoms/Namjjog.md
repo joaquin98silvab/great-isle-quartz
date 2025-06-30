@@ -10,8 +10,19 @@ languages:
   - namjjog
 publish: true
 ---
-The smaller of the Small Isles, Namjjog is not very well known, but it has a very deep connection with magic.
 
-**Culture:** korean
+ ### Overview
+ 
+ The smaller of the Small Isles, Namjjog is not very well known, but it has a very deep connection with magic.
 
-**Known for:** magic, sorcerers, seers and oracles
+> [!infobox|right]
+> # Namjjog
+> ###### Theocracy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Keun Hang-gu |
+> |  **Species:** | common species |
+> |**Languages:** |  namjjog|
+> |**Culture:**| korean |
+> |**Known for:** | magic, sorcerers, seers and oracles |

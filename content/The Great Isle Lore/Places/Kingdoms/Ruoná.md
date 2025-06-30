@@ -12,8 +12,20 @@ languages:
   - northspeak
 publish: true
 ---
-One of the Northern ex-imperial countries.
 
-**Culture:** inuit
+ ### Overview
+ 
+ One of the Northern ex-imperial countries.
 
-**Known for:** monks, mountains
+> [!infobox|right]
+> # Ruoná
+> ###### Monarchy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Illoqarfik |
+> |  **Species:** | common species, goliaths |
+> |**Languages:** |  new imperial, northspeak|
+> |**Culture:**| inuit |
+> |**Known for:** | monks, mountains |
+

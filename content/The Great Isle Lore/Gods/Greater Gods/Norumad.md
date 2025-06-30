@@ -6,21 +6,23 @@ tags:
   - lawful
   - evil
 ---
-### The Tyrant
-#### (Lawful Evil)
-![[Pasted image 20250624104002.png]]
+### Overview
+
 God of tyranny, slavery, domination and conspiracy.
 
-##### Common Appearance
+### Common Appearance
 
 Many represent them as an old, tyrant king. Many others as a jailer or executioner.
 
 Tends to carry chains or manacles
 
-##### Patronage
-
-Many devils and conspiratorial cults, tyrants.
-
-##### Divine Domains
-
-Order, War, Knowledge
+> [!infobox|right]
+> ![[Pasted image 20250624104002.png]]
+> # Norumad
+> ###### Greater God
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | The Tyrant |
+> | **Alignment:** | Lawful Evil|
+> |  **Patronage:** | Many devils and conspiratorial cults, tyrants  |
+> |**Divine Domain:** |  Order, War, Knowledge |

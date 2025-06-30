@@ -11,8 +11,19 @@ languages:
   - Verdan imperial
 publish: true
 ---
-Jadais is another old colony of the empire, with now close ties to Verdan, maybe closer than theyd like. Feudal kingdom where the king has little power, and the nobles reign almost absolutely in their territories.
 
-**Culture:** french
+ ### Overview
+ 
+ Jadais is another old colony of the empire, with now close ties to Verdan, maybe closer than theyd like. Feudal kingdom where the king has little power, and the nobles reign almost absolutely in their territories.
 
-**Known for:** wine, wheat, superstitious and old fashioned
+> [!infobox|right]
+> # Jadais
+> ###### Feudal Monarchy
+> | | |
+> | --- | ---|
+> |  **Other Names:**  | Alias |
+> | **Capital:** | Jadais |
+> |  **Species:** | common species |
+> |**Languages:** |  new imperial, Verdan imperial|
+> |**Culture:**| french |
+> |**Known for:** | wine, wheat, superstitious and old fashioned |
