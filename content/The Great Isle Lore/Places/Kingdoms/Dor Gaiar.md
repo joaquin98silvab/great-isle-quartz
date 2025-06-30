@@ -3,6 +3,7 @@ title: Dor Gaiar
 draft: false
 tags:
   - kingdom
+  - elf
 capital: 
 species:
   - elves (moon, wood and sea)
