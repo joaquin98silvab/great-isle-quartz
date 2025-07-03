@@ -7,7 +7,6 @@ tags:
   - secret
 publish: false
 ---
- 
 The party starts in a small town called Lemane, in [[Junier]]. They were called by the Prophet in a letter that appeared next to their beds. They had to meet in Lemane, the last Sunday of March.
 
 They meet in the Widow's Barrel Inn.
@@ -35,3 +34,17 @@ He coughs and spit to rat swarms, and he becomes a wererat.
 ![[swarm of rats.png|340]] ![[wererat.png|340]]
 
 If the compass is opened, all the constitutents of the room are transported to the sea in front of [[Uzgathol]]
+
+
+---
+Old Jambert, the grandpa of Thevenin,  he is the oldest half elf in the town. He likes wine.
+
+
+
+
+
+
+
+
+
+
