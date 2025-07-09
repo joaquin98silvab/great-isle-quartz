@@ -37,15 +37,9 @@ If the compass is opened, all the constitutents of the room are transported to t
 
 
 ---
-They ask about where the gods live, but only hear stuff about Mount Celestia, where Leor resides.
-
-Thevenin hasnt seen any wierd people going through the tavern, nor asking about gods.
-
-Marten was hit by an enchantment spell, and doesnt remember anything of the message or being enchanted.
-
 Old Jambert, the grandpa of Thevenin,  he is the oldest half elf in the town. He likes wine.
 
-They killed some goblins and dragged Marten to the underground of the tavern. There they find Thevenin with the watch.
+They killed the goblin boss. and went down Thevenin's hatch, where they find him with the Starmap Gate.
 
 
 

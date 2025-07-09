@@ -10,11 +10,8 @@ publish: false
 VIC (F): the prophet killed her ship crew, and only spared her. 
 Giorgio (M): the prophet revived him after being hanged
 Jonik (M): the prophet framed him for destroying one of the gods fingers
-Robin (M): saw in a vision the prophet bringing a moon with destruction??
-Archaida (MF): saw a vision of destruction and a blood moon and the prophet
-
-
-Pasive Perception:
+Robin (M): saw in a vision the prophet bringing a moon with destruction
+Archaida (MF): ???
 
 Vic: 15
 Giorgio: 14 
