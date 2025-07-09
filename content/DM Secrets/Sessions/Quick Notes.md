@@ -6,7 +6,15 @@ tags:
   - secret
 publish: false
 ---
- 
+Evik + Jonik 17
+Robin + Jonik 17
+Giorgio 9
+Giorgio 12
+
+
+11, 17, 10, 7, 12
+
+
 VIC (F): the prophet killed her ship crew, and only spared her. 
 Giorgio (M): the prophet revived him after being hanged
 Jonik (M): the prophet framed him for destroying one of the gods fingers

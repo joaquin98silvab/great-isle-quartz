@@ -37,3 +37,10 @@ All adult men were killed.
 - Sadverra Broadback. Follows the party, part of the cult. Fidgety, smells bad. Short beard and hair, dark brown. Cowardly and avoids confrontation. Will tell if pressed, but wont accept any bribe or stuff.
 - Onmod Fortfingers. Higher up of the cult. Wererat, fanatic. Thin looking dwarf with scraggly hair and a very long beard. 
 The great clan leaders are Narhola and Hovric Salthammer.
+
+---
+Seach parties:
+- Jambert + Lille
+- Helisent + 2 children
+- Belsante + 3 children
+

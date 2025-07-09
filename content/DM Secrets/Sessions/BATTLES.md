@@ -1,15 +1,11 @@
-Vic: 12
-Robin: 15
-Giorgio: 17
-Archaida: 5
-Jonik: 23
-Marten: 9
-Thevenin: 16
+Evik: 9
+Robin: 11 
+Giorgio: 10
+Archaida: 16
+Jonik: 10
+Marten: 16
+Thevenin: 10 
 
-Boss: 8 (0)
-Goblin Minion: 19 (0, 0)
-Goblin Warrior: 20 (0, 4)
+Rats, Archaida, Marten (1, -3), Robiin, Giorgio, Jonik, Thevenin, Evik
 
-
-Jonik - Warrior - Minion - Giorgio - Thevenin - Robin - Vic - Marten - Boss - Archaida
 
