@@ -63,7 +63,7 @@
       ]
     }
   ],
-  "defaultParty": null,
+  "defaultParty": "Full",
   "statuses": [
     {
       "name": "Blinded",
@@ -160,14 +160,142 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
-    "state": false,
-    "name": null,
-    "round": 1,
+    "creatures": [
+      {
+        "name": "Jonik",
+        "initiative": 22,
+        "static": false,
+        "modifier": 1,
+        "hp": 10,
+        "currentMaxHP": 10,
+        "ac": "10",
+        "currentAC": "10",
+        "note": "Jonik",
+        "path": "content/DM Secrets/Characters Backstories/Jonik.md",
+        "id": "ID_890929a92a88",
+        "currentHP": 10,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Evik",
+        "initiative": 18,
+        "static": false,
+        "modifier": 0,
+        "hp": 10,
+        "currentMaxHP": 10,
+        "ac": "10",
+        "currentAC": "10",
+        "note": "Evik",
+        "path": "content/DM Secrets/Characters Backstories/Evik.md",
+        "id": "ID_591a3b98bb2b",
+        "currentHP": 10,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": true,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Archaida",
+        "initiative": 18,
+        "static": false,
+        "modifier": 1,
+        "hp": 10,
+        "currentMaxHP": 10,
+        "ac": "10",
+        "currentAC": "10",
+        "note": "Archaida",
+        "path": "content/DM Secrets/Characters Backstories/Archaida.md",
+        "id": "ID_0a783bf9ca4b",
+        "currentHP": 10,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Jambert",
+        "display": "Jambert",
+        "initiative": 9,
+        "static": false,
+        "modifier": 0,
+        "hp": 6,
+        "currentMaxHP": 6,
+        "ac": "9",
+        "currentAC": "9",
+        "id": "ID_897ac83a6a1b",
+        "currentHP": 6,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": true
+      },
+      {
+        "name": "Hobgoblin Captain",
+        "initiative": 9,
+        "static": false,
+        "modifier": 2,
+        "hp": 58,
+        "currentMaxHP": 58,
+        "cr": "3",
+        "ac": 17,
+        "currentAC": 17,
+        "id": "ID_ba396bbb6b78",
+        "currentHP": 58,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "9d8 + 18"
+      },
+      {
+        "name": "Giorgio",
+        "initiative": 8,
+        "static": false,
+        "modifier": 1,
+        "hp": 10,
+        "currentMaxHP": 10,
+        "ac": "10",
+        "currentAC": "10",
+        "note": "Giorgio",
+        "path": "content/DM Secrets/Characters Backstories/Giorgio.md",
+        "id": "ID_d98b6929d83b",
+        "currentHP": 10,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 1,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      }
+    ],
+    "state": true,
+    "name": "Encounter",
+    "round": 4,
     "logFile": "",
     "rollHP": false
   },
-  "condense": true,
+  "condense": false,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
@@ -193,8 +321,8 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
+    "showParty": false,
+    "showXP": false,
     "sidebarIcon": true,
     "headers": [
       {
@@ -217,7 +345,117 @@
         "field": "alignment",
         "type": 0
       }
-    ]
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "medium",
+            "small",
+            "large",
+            "huge",
+            "gargantuan",
+            "tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "elemental",
+            "humanoid",
+            "aberration",
+            "monstrosity",
+            "dragon",
+            "beast",
+            "celestial",
+            "construct",
+            "fiend",
+            "fey",
+            "plant",
+            "undead",
+            "ooze",
+            "giant"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "neutral",
+            "neutral evil",
+            "lawful evil",
+            "chaotic evil",
+            "chaotic good",
+            "lawful good",
+            "unaligned",
+            "lawful neutral",
+            "chaotic neutral",
+            "neutral good"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
-  "rollPlayerInitiatives": 0
+  "rollPlayerInitiatives": 1
 }
