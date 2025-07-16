@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "78aa09fd1785222c",
+    "type": "split",
+    "children": [
+      {
+        "id": "89080fbc9ec93641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dee63c2a1f26bc27",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: community-plugins.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a8eeae09091e19f",
+    "type": "split",
+    "children": [
+      {
+        "id": "596aef2c8da11a13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e7cee71d406cdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ba79dc8e796f5ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d25bd9269fa53a84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62a21a6a53aba944",
+    "type": "split",
+    "children": [
+      {
+        "id": "49cc4deee9c11387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0896fd66ff304142",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85b1522348da7d3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "89e7b826c60ca8c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "02d1d366549651ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "37fcaf13078ddc01",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "1600c39cb1ff40a2",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_58dae9ea4bdb",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 27,
+                    "month": 2,
+                    "year": 1302
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 29,
+                    "month": 2,
+                    "year": 1302
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_f959eba96978",
+                "child": "ID_4acb1a7b7b2b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "319f20ca5a70bfd5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "b490a75d52bf493f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7087946b901231a",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_58dae9ea4bdb",
+                "id": "ID_4acb1a7b7b2b",
+                "parent": "ID_f959eba96978"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 801.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "dee63c2a1f26bc27",
+  "lastOpenFiles": [
+    "content/DM Secrets/Sessions/Session 3.md",
+    "content/DM Secrets/index.md",
+    "content/DM Secrets/Sessions/BATTLES.md",
+    "content/DM Secrets/Sessions/Quick Notes.md",
+    "content/The Great Isle Lore/Continental Map.md",
+    "content/index.md",
+    "content/DM Secrets/Sessions/Session 2.md",
+    "content/DM Secrets/Sessions/Session 1.md",
+    "content/DM Secrets/Characters Backstories/Evik.md",
+    "content/DM Secrets/Monsters/goblin minion.png",
+    "content/DM Secrets/Characters Backstories/Giorgio.md",
+    "content/DM Secrets/Characters Backstories/Jonik.md",
+    "content/DM Secrets/Characters Backstories/Robin.md",
+    "content/DM Secrets/Monsters/swarm of rats.png",
+    "content/DM Secrets/Monsters/wererat.png",
+    "content/DM Secrets/Characters Backstories/Archaida.md",
+    "content/DM Secrets/Characters Backstories/Jonik Fentris.md",
+    "content/The Great Isle Lore/Species/Dwarves.md",
+    "content/DM Secrets/Sessions/NPCs/Thevenin LeBlanc.md",
+    "content/DM Secrets/Sessions/NPCs",
+    "content/DM Secrets/Characters Backstories",
+    "content/The Great Isle Lore/Places/Cities/Uzgathol.md",
+    "content/DM Secrets/Monsters/giant rat.png",
+    "content/DM Secrets/Monsters/goblin warrior.png",
+    "content/DM Secrets/Untitled.md",
+    "content/DM Secrets/Monsters",
+    "content/DM Secrets/Monsters/goblin boss.png",
+    "content/DM Secrets/Sessions/Characters Backstories/Vic.md",
+    "content/DM Secrets/Sessions/Characters Backstories/Niko.md",
+    "content/DM Secrets/Sessions/Characters Backstories/Giorgio.md",
+    "content/DM Secrets/Sessions/Characters Backstories",
+    "content/The Great Isle Lore/Gods/Greater Gods/Aris and Sira.md",
+    "public/The-Great-Isle-Lore/Places/Kingdoms/Junier-og-image.webp",
+    "Templates/maps.md",
+    "content/DM Secrets/Sessions",
+    "content/Untitled.md",
+    "content/DM Secrets",
+    "08-using-ability-scores.md",
+    "content/The Great Isle Lore/Species",
+    "content/The Great Isle Lore/Gods/Greater Gods/1714c52c676790be426fee2bc7dbbcfd.webp",
+    "images/Pasted image 20250624102822.png",
+    "images/Pasted image 20250624102238.png",
+    "content/The Great Isle Lore/Places/Kingdoms",
+    "content/The Great Isle Lore/Places/Cities",
+    "content/The Great Isle Lore/Places"
+  ]
+}
