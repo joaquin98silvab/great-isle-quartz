@@ -29,10 +29,10 @@ All adult men were killed.
 
 **In [[Uzgathol]]**
 - Garneg Brewbelly. Inkeeper of the Cold Stone Inn. Orange beard, pristine apron, little glasses. Professional, no bullshit
-- Holmon Minefoot. Priest of [[Moradin]]. Old, white beard, no hair. Grumpy and severe, rather thin for a dwarf. Wary of strangers. Knows about the seepage.
+- Holmon Oakspine. Priest of [[Moradin]]. Old, white beard, no hair. Grumpy and severe, rather thin for a dwarf. Wary of strangers. Knows about the seepage.
 - Logguth Broadback. Dockmaster of the Stormstone Port. Black beard, rather young. Cheerfull, talkative.
-- Nermuni Brewbelly. Paladin of Shanee, head of the guards of the Cage of Purity. Very young, clean shaven, black hair. Sworn to protect the cage at all costs. Feels that the party can help. Knows about the seepage and tries to tell the party in secret
-- Borgebara Oakspine. Guard. Oily beard and hair, light brown, some rings. Not very professional, bribes and with connection to the thieves and rogues, but doesnt tell. 
+- Nermuni Purestone. Paladin of Shanee, head of the guards of the Cage of Purity. Very young, clean shaven, black hair. Sworn to protect the cage at all costs. Feels that the party can help. Knows about the seepage and tries to tell the party in secret
+- Borgebara Minefoot. Guard. Oily beard and hair, light brown, some rings. Not very professional, bribes and with connection to the thieves and rogues, but doesnt tell. 
 - Gardobella Fortfingers. Thief. Old, innocent looking, with a gray beard and hair. If they stay in the lower levels, she tries to pickpocket one of the party. Distrusting, can give info if payed. Professional, can find out about the seepage if payed.
 - Sadverra Broadback. Follows the party, part of the cult. Fidgety, smells bad. Short beard and hair, dark brown. Cowardly and avoids confrontation. Will tell if pressed, but wont accept any bribe or stuff.
 - Onmod Fortfingers. Higher up of the cult. Wererat, fanatic. Thin looking dwarf with scraggly hair and a very long beard. 
