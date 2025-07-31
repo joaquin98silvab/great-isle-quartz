@@ -27,3 +27,10 @@ players:
 creatures:
  - 1:Cultist Fanatic
 ```
+
+---
+They went to the cult of Eilee, managed to get into the place and meet Nermuni Purestone. She leads them to the cage of Ulgul.
+
+Ulgul knows the names of the party and that they were led here by the Prophet, but he is not actually being helped by him.
+
+
