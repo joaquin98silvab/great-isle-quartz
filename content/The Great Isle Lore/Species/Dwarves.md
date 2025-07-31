@@ -10,4 +10,4 @@ Most dwarven cities of towns are actually just a clan, though sometimes through 
 
 In their culture, honor and tradition are extremely important. This almost always in relation to their clan. For a traditional dwarf, their honor is the same as their clans.
 
-The worst crimes are met with the most severe punishment: exile. Dwarves who bring great and irreparable dishonor to their clans can be exiled, kicked out of their home, forbidden to use their clan name, and treated as their never were part of the clan. Only an exiled dwarf can be executed.
+The worst crimes are met with the most severe punishment: exile. Dwarves who bring great and irreparable dishonor to their clans can be exiled, kicked out of their home, forbidden to use their clan name, and treated as their never were part of the clan. 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb674dbd73094ce0",
+        "id": "4c0a1b4ed00c4f43",
         "type": "tabs",
         "children": [
           {
-            "id": "ca1feafd50d4f724",
+            "id": "fc4f7519ee59927a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "content/DM Secrets/Sessions/Session 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Session 5"
             }
           }
         ]
@@ -193,12 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/DM Secrets/Sessions/Session 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Session 5"
             }
           },
           {
@@ -224,7 +225,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_58dae9ea4bdb",
                 "id": "ID_79ab391b8a7b",
                 "parent": "ID_eb79cb7b898a"
               },
@@ -250,26 +250,27 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ca1feafd50d4f724",
+  "active": "fc4f7519ee59927a",
   "lastOpenFiles": [
     "content/DM Secrets/Sessions/Session 4.md",
+    "content/DM Secrets/Sessions/Session 5.md",
     "content/DM Secrets/Sessions/Session 2.md",
     "content/DM Secrets/Sessions/Session 3.md",
+    "content/The Great Isle Lore/Places/Cities/Uzgathol.md",
+    "content/DM Secrets/Sessions/Quick Notes.md",
+    "content/DM Secrets/Sessions/Session 1.md",
+    "content/The Great Isle Lore/Species/Dwarves.md",
     "content/DM Secrets/Sessions/NPCs/Thevenin LeBlanc.md",
     "2025-07-25.md",
-    "content/DM Secrets/Sessions/Session 1.md",
-    "content/The Great Isle Lore/Places/Cities/Uzgathol.md",
     "content/DM Secrets/Sessions/BATTLES.md",
     "content/The Great Isle Lore/Continental Map.md",
     "content/The Great Isle Lore/Places/Cities/Nurzenkal.md",
     "content/index.md",
     "content/kanban.md",
     "content/DM Secrets/index.md",
-    "content/DM Secrets/Sessions/Quick Notes.md",
     "content/DM Secrets/Characters Backstories/Evik.md",
     "content/DM Secrets/Monsters/goblin minion.png",
     "content/DM Secrets/Characters Backstories/Giorgio.md",
@@ -279,7 +280,6 @@
     "content/DM Secrets/Monsters/wererat.png",
     "content/DM Secrets/Characters Backstories/Archaida.md",
     "content/DM Secrets/Characters Backstories/Jonik Fentris.md",
-    "content/The Great Isle Lore/Species/Dwarves.md",
     "content/DM Secrets/Sessions/NPCs",
     "content/DM Secrets/Characters Backstories",
     "content/DM Secrets/Monsters/giant rat.png",
@@ -291,7 +291,6 @@
     "content/DM Secrets/Sessions/Characters Backstories/Niko.md",
     "content/DM Secrets/Sessions/Characters Backstories/Giorgio.md",
     "content/DM Secrets/Sessions/Characters Backstories",
-    "content/The Great Isle Lore/Gods/Greater Gods/Aris and Sira.md",
     "public/The-Great-Isle-Lore/Places/Kingdoms/Junier-og-image.webp",
     "content/DM Secrets/Sessions",
     "content/DM Secrets",

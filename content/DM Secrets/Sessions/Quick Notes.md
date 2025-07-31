@@ -24,5 +24,5 @@ Archaida (MF): ???
 Vic: 15
 Giorgio: 14 
 Jonik: 12
-Robin: 14
-Archaida: 12 
+Robin: 15
+Archaida: 13 
