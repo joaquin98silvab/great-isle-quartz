@@ -1,5 +1,34 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "MapCalcExample",
+      "lastAccessed": 1754669053550,
+      "markers": [
+        {
+          "id": "ID_884a992b6a18",
+          "type": "default",
+          "loc": [
+            586.8986283848344,
+            991.3637072235396
+          ],
+          "layer": "%5B%5BPasted%20image%2020250808174721.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.9913637072235396,
+            -0.7592479021796047
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

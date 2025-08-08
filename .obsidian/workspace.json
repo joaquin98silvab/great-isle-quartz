@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Messor.md",
-                "mode": "source",
-                "source": false
+                "file": "content/DM Secrets/Sessions/Session 6.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Messor"
+              "title": "Session 6"
             }
           }
         ]
@@ -166,11 +166,7 @@
               "state": {
                 "calendar": "ID_58dae9ea4bdb",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 28,
-                    "month": 2,
-                    "year": 1302
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 29,
@@ -183,8 +179,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_f959eba96978",
-                "child": "ID_f93ac9198bfa"
+                "id": "ID_f959eba96978"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -204,41 +199,17 @@
         "currentTab": 6
       },
       {
-        "id": "b490a75d52bf493f",
+        "id": "eb64f5ea3c251a77",
         "type": "tabs",
         "children": [
           {
-            "id": "b7087946b901231a",
+            "id": "a1153b250378a70a",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_58dae9ea4bdb",
-                "id": "ID_4acb1a7b7b2b",
-                "parent": "ID_f959eba96978"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5d43c590241ebc7e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e79bfad2e98bca3c",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_58dae9ea4bdb",
-                "id": "ID_f93ac9198bfa",
-                "parent": "ID_f959eba96978"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
@@ -263,8 +234,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9266bcaef3cef71c",
+  "active": "319f20ca5a70bfd5",
   "lastOpenFiles": [
+    "Pasted image 20250808174721.jpg",
+    "content/DM Secrets/Sessions/Session 5.md",
+    "content/DM Secrets/Sessions/Session 6.md",
+    "content/DM Secrets/Sessions/Session 4.md",
+    "content/DM Secrets/Sessions/Session 3.md",
+    "content/DM Secrets/Sessions/Session 2.md",
+    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Messor.md",
+    "Oneshot leora.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Komadar.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/index.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Gruumsh.md",
@@ -275,22 +254,14 @@
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Ulgul.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Tiamat.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Shanee.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Messor.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Moridin.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/The Highstar.md",
-    "content/DM Secrets/Sessions/Session 5.md",
     "content/DM Secrets/Sessions/Quick Notes.md",
     "content/DM Secrets/Sessions/BATTLES.md",
     "content/DM Secrets/Sessions/NPCs/Thevenin LeBlanc.md",
-    "content/DM Secrets/Sessions/Session 4.md",
     "2025-07-25.md",
     "conflict-files-obsidian-git.md",
-    "content/DM Secrets/Sessions/Session 3.md",
     "content/DM Secrets/index.md",
-    "content/The Great Isle Lore/Continental Map.md",
-    "content/index.md",
-    "content/DM Secrets/Sessions/Session 2.md",
-    "content/DM Secrets/Sessions/Session 1.md",
     "content/DM Secrets/Monsters/goblin minion.png",
     "content/DM Secrets/Monsters/swarm of rats.png",
     "content/DM Secrets/Monsters/wererat.png",

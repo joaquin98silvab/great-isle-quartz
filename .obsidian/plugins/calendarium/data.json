@@ -424,6 +424,45 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Session 4",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 2,
+            "year": 1302
+          },
+          "id": "ID_295b1a3ab989",
+          "note": "content/DM Secrets/Sessions/Session 4.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 28,
+            "month": 2,
+            "year": 1302
+          }
+        },
+        {
+          "name": "Session 5",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 2,
+            "year": 1302
+          },
+          "id": "ID_c90979484908",
+          "note": "content/DM Secrets/Sessions/Session 5.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_58dae9ea4bdb",
