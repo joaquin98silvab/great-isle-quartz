@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71b9891947a93b30",
+        "id": "4c0a1b4ed00c4f43",
         "type": "tabs",
         "children": [
           {
-            "id": "9266bcaef3cef71c",
+            "id": "fc4f7519ee59927a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "content/DM Secrets/Sessions/Session 6.md",
-                "mode": "preview",
-                "source": true
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 6"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -127,29 +127,73 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/DM Secrets/Sessions/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Session 4"
             }
           },
           {
-            "id": "02d1d366549651ff",
+            "id": "e9056cf9e148733b",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "0d253e2ec86ded83",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_58dae9ea4bdb",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 27,
+                    "month": 2,
+                    "year": 1302
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 27,
+                    "month": 2,
+                    "year": 1302
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_eb79cb7b898a",
+                "child": "ID_79ab391b8a7b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "16f0fdf5bebeb1f2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/DM Secrets/Sessions/Session 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Session 5"
             }
           },
           {
-            "id": "37fcaf13078ddc01",
+            "id": "e15b2f8404f009ab",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -157,36 +201,29 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9eafa7279821a6f2",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1600c39cb1ff40a2",
+            "id": "e9577e4cc595128d",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM",
+              "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_58dae9ea4bdb",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 29,
-                    "month": 2,
-                    "year": 1302
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_f959eba96978"
+                "id": "ID_79ab391b8a7b",
+                "parent": "ID_eb79cb7b898a"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           },
           {
-            "id": "319f20ca5a70bfd5",
+            "id": "f17ada3e3dde7b4a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -194,68 +231,17 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "8902c65766e747a6",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_58dae9ea4bdb",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 28,
-                    "month": 2,
-                    "year": 1302
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_1a2a0838f938"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "2a5300ce9e16630f",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_58dae9ea4bdb",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 28,
-                    "month": 2,
-                    "year": 1302
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_bbbb8b69399a"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 801.5
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -264,43 +250,43 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "319f20ca5a70bfd5",
+  "active": "f17ada3e3dde7b4a",
   "lastOpenFiles": [
-    "Pasted image 20250808174721.jpg",
-    "content/DM Secrets/Sessions/Session 5.md",
-    "content/DM Secrets/Sessions/Session 6.md",
-    "content/DM Secrets/Sessions/Session 4.md",
-    "content/DM Secrets/Sessions/Session 3.md",
-    "content/DM Secrets/Sessions/Session 2.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Messor.md",
-    "Oneshot leora.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Komadar.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/index.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Gruumsh.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Dremsh.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Corellon Larethian.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Bahamut.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Altar.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Ulgul.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Tiamat.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Shanee.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Moridin.md",
-    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/The Highstar.md",
+    "content/DM Secrets/Sessions/Session 6.md",
+    "Pasted image 20250808174721.jpg",
+    "Oneshot leora.md",
+    "content/DM Secrets/Sessions/Session 5.md",
+    "content/DM Secrets/Sessions/Session 4.md",
+    "content/DM Secrets/Sessions/Session 2.md",
+    "content/DM Secrets/Sessions/Session 3.md",
+    "content/The Great Isle Lore/Places/Cities/Uzgathol.md",
     "content/DM Secrets/Sessions/Quick Notes.md",
-    "content/DM Secrets/Sessions/BATTLES.md",
+    "content/DM Secrets/Sessions/Session 1.md",
+    "content/The Great Isle Lore/Species/Dwarves.md",
     "content/DM Secrets/Sessions/NPCs/Thevenin LeBlanc.md",
     "2025-07-25.md",
-    "conflict-files-obsidian-git.md",
+    "content/DM Secrets/Sessions/BATTLES.md",
+    "content/The Great Isle Lore/Continental Map.md",
+    "content/The Great Isle Lore/Places/Cities/Nurzenkal.md",
+    "content/index.md",
+    "content/kanban.md",
     "content/DM Secrets/index.md",
+    "content/DM Secrets/Characters Backstories/Evik.md",
     "content/DM Secrets/Monsters/goblin minion.png",
+    "content/DM Secrets/Characters Backstories/Giorgio.md",
+    "content/DM Secrets/Characters Backstories/Jonik.md",
+    "content/DM Secrets/Characters Backstories/Robin.md",
     "content/DM Secrets/Monsters/swarm of rats.png",
     "content/DM Secrets/Monsters/wererat.png",
+    "content/DM Secrets/Characters Backstories/Archaida.md",
     "content/DM Secrets/Sessions/NPCs",
     "content/DM Secrets/Characters Backstories",
     "content/DM Secrets/Monsters/giant rat.png",
@@ -314,7 +300,6 @@
     "content/The Great Isle Lore/Species",
     "content/The Great Isle Lore/Gods/Greater Gods/1714c52c676790be426fee2bc7dbbcfd.webp",
     "images/Pasted image 20250624102822.png",
-    "images/Pasted image 20250624102238.png",
     "content/The Great Isle Lore/Places/Kingdoms",
     "content/The Great Isle Lore/Places/Cities",
     "content/The Great Isle Lore/Places"
