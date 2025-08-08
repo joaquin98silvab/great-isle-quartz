@@ -194,25 +194,61 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8902c65766e747a6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_58dae9ea4bdb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 2,
+                    "year": 1302
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_1a2a0838f938"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "2a5300ce9e16630f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_58dae9ea4bdb",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 28,
+                    "month": 2,
+                    "year": 1302
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_bbbb8b69399a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
         "currentTab": 6
-      },
-      {
-        "id": "eb64f5ea3c251a77",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a1153b250378a70a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",

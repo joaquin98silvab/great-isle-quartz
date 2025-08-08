@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1754669053550,
+      "lastAccessed": 1754669405732,
       "markers": [
         {
           "id": "ID_884a992b6a18",
@@ -19,6 +19,22 @@
             -0.7592479021796047
           ],
           "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9809482938c8",
+          "type": "default",
+          "loc": [
+            525.7117947252859,
+            844.1087200414411
+          ],
+          "layer": "%5B%5BPasted%20image%2020250808174721.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "A bunch of Lowminers with 23 gp, 67 sp, 43 gp in gems and a periapth of health",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
