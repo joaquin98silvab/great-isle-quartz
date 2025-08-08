@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4c0a1b4ed00c4f43",
+        "id": "5b8b9817399f6785",
         "type": "tabs",
         "children": [
           {
-            "id": "fc4f7519ee59927a",
+            "id": "e15b2f8404f009ab",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "ec14eff751fee25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "content/DM Secrets/Sessions/Session 6.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Session 6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/DM Secrets/Sessions/Session 4.md",
+                "file": "content/DM Secrets/Sessions/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 4"
+              "title": "Outgoing links from Session 6"
             }
           },
           {
@@ -170,8 +181,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_eb79cb7b898a",
-                "child": "ID_79ab391b8a7b"
+                "id": "ID_eb79cb7b898a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -183,47 +193,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/DM Secrets/Sessions/Session 5.md",
+                "file": "content/DM Secrets/Sessions/Session 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 5"
+              "title": "Outline of Session 6"
             }
           },
           {
-            "id": "e15b2f8404f009ab",
+            "id": "3148e7011bac38c3",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-view",
+              "type": "initiative-tracker-creature-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "9eafa7279821a6f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9577e4cc595128d",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "id": "ID_79ab391b8a7b",
-                "parent": "ID_eb79cb7b898a"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           },
           {
-            "id": "f17ada3e3dde7b4a",
+            "id": "c373e696cbf114b3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -233,11 +223,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,16 +245,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f17ada3e3dde7b4a",
+  "active": "ec14eff751fee25c",
   "lastOpenFiles": [
+    "content/DM Secrets/Sessions/Session 5.md",
+    "content/DM Secrets/Sessions/Session 6.md",
+    "content/DM Secrets/Sessions/Session 4.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Ulgul.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Shanee.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Moridin.md",
-    "content/DM Secrets/Sessions/Session 6.md",
     "Pasted image 20250808174721.jpg",
     "Oneshot leora.md",
-    "content/DM Secrets/Sessions/Session 5.md",
-    "content/DM Secrets/Sessions/Session 4.md",
     "content/DM Secrets/Sessions/Session 2.md",
     "content/DM Secrets/Sessions/Session 3.md",
     "content/The Great Isle Lore/Places/Cities/Uzgathol.md",
