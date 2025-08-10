@@ -21,14 +21,14 @@
             "id": "ec14eff751fee25c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "content/DM Secrets/Sessions/Session 6.md",
-                "mode": "preview",
-                "source": true
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Session 6"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -247,14 +247,15 @@
   },
   "active": "ec14eff751fee25c",
   "lastOpenFiles": [
-    "content/DM Secrets/Sessions/Session 5.md",
+    "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Dremsh.md",
+    "Oneshot leora.md",
     "content/DM Secrets/Sessions/Session 6.md",
+    "content/DM Secrets/Sessions/Session 5.md",
     "content/DM Secrets/Sessions/Session 4.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Ulgul.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Shanee.md",
     "content/The Great Isle Lore/Gods/Lesser Gods (Ascended)/Moridin.md",
     "Pasted image 20250808174721.jpg",
-    "Oneshot leora.md",
     "content/DM Secrets/Sessions/Session 2.md",
     "content/DM Secrets/Sessions/Session 3.md",
     "content/The Great Isle Lore/Places/Cities/Uzgathol.md",
@@ -276,7 +277,6 @@
     "content/DM Secrets/Characters Backstories/Robin.md",
     "content/DM Secrets/Monsters/swarm of rats.png",
     "content/DM Secrets/Monsters/wererat.png",
-    "content/DM Secrets/Characters Backstories/Archaida.md",
     "content/DM Secrets/Sessions/NPCs",
     "content/DM Secrets/Characters Backstories",
     "content/DM Secrets/Monsters/giant rat.png",
