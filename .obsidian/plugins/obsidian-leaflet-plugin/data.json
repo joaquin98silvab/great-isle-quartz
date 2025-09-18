@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "MapCalcExample",
-      "lastAccessed": 1754669405732,
+      "lastAccessed": 1758210301020,
       "markers": [
         {
           "id": "ID_884a992b6a18",
@@ -42,7 +42,9 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "content/DM Secrets/Sessions/Session 6.md"
+      ]
     }
   ],
   "defaultMarker": {
