@@ -10,4 +10,6 @@ private/
 .replit
 replit.nix
 
+.obsidian/workspace.json
 /.obsidian/workspace.json
+/.obsidian/plugins/initiative-tracker/data.json

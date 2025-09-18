@@ -19,7 +19,7 @@ creatures:
 
 
 ```leaflet  
-id: MapCalcExample ### Must be unique with no spaces  
+id: MapSewers ### Must be unique with no spaces  
 image: [[Pasted image 20250808174721.jpg]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [773, 1000]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 800px ### Size of the leaflet embed in px on your screen  
