@@ -11,3 +11,7 @@ first crossing: russet mould
 
 When the mold explodes, 3 vegepygmies appear from the vegetation.
 
+
+---
+They manage to escape the thugs, reach the first 
+
