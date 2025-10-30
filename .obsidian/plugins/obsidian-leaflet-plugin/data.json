@@ -45,6 +45,84 @@
       "files": [
         "content/DM Secrets/Sessions/Session 6.md"
       ]
+    },
+    {
+      "id": "MapSewers",
+      "lastAccessed": 1761840990842,
+      "markers": [
+        {
+          "id": "ID_c9e87b7b6aea",
+          "type": "default",
+          "loc": [
+            300.33331298828125,
+            579
+          ],
+          "layer": "%5B%5BPasted%20image%2020250808174721.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.579,
+            -0.38852951227462
+          ],
+          "description": "1 cultist fanatic, 1 wererat, 2 cultist",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_695b8a1a8aa9",
+          "type": "default",
+          "loc": [
+            386.8854217529297,
+            676
+          ],
+          "layer": "%5B%5BPasted%20image%2020250808174721.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "big lair",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a0979d8dac9",
+          "type": "default",
+          "loc": [
+            252.82749915584645,
+            633.0962570362312
+          ],
+          "layer": "%5B%5BPasted%20image%2020250808174721.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Small loyal clanless base\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2baa29e8ba99",
+          "type": "default",
+          "loc": [
+            312.2244687755164,
+            438.8775800842019
+          ],
+          "layer": "%5B%5BPasted%20image%2020250808174721.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Loyal Clanless headquarters",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "content/DM Secrets/Sessions/Session 6.md"
+      ]
     }
   ],
   "defaultMarker": {

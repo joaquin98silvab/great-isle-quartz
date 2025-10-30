@@ -1,0 +1,1 @@
+The stillborn corpse of a never living god. A concentration of pure necromantic energy, slowly approaching the planet of the mortal realm. 
